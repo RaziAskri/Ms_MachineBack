@@ -1,0 +1,13 @@
+C:\Users\razi\source\repos\Ms_Machine\Poulina.ProjectManagmentMs.Infra\bin\Debug\netcoreapp3.1\Poulina.ProjectManagmentMs.Infra.deps.json
+C:\Users\razi\source\repos\Ms_Machine\Poulina.ProjectManagmentMs.Infra\bin\Debug\netcoreapp3.1\Poulina.ProjectManagmentMs.Infra.dll
+C:\Users\razi\source\repos\Ms_Machine\Poulina.ProjectManagmentMs.Infra\obj\Debug\netcoreapp3.1\Poulina.ProjectManagmentMs.Infra.csprojAssemblyReference.cache
+C:\Users\razi\source\repos\Ms_Machine\Poulina.ProjectManagmentMs.Infra\obj\Debug\netcoreapp3.1\Poulina.ProjectManagmentMs.Infra.AssemblyInfoInputs.cache
+C:\Users\razi\source\repos\Ms_Machine\Poulina.ProjectManagmentMs.Infra\obj\Debug\netcoreapp3.1\Poulina.ProjectManagmentMs.Infra.AssemblyInfo.cs
+C:\Users\razi\source\repos\Ms_Machine\Poulina.ProjectManagmentMs.Infra\bin\Debug\netcoreapp3.1\Poulina.ProjectManagmentMs.Infra.pdb
+C:\Users\razi\source\repos\Ms_Machine\Poulina.ProjectManagmentMs.Infra\bin\Debug\netcoreapp3.1\Poulina.MSmachine.Data.dll
+C:\Users\razi\source\repos\Ms_Machine\Poulina.ProjectManagmentMs.Infra\bin\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.dll
+C:\Users\razi\source\repos\Ms_Machine\Poulina.ProjectManagmentMs.Infra\bin\Debug\netcoreapp3.1\Poulina.MSmachine.Data.pdb
+C:\Users\razi\source\repos\Ms_Machine\Poulina.ProjectManagmentMs.Infra\bin\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.pdb
+C:\Users\razi\source\repos\Ms_Machine\Poulina.ProjectManagmentMs.Infra\obj\Debug\netcoreapp3.1\Poulina.ProjectManagmentMs.Infra.csproj.CopyComplete
+C:\Users\razi\source\repos\Ms_Machine\Poulina.ProjectManagmentMs.Infra\obj\Debug\netcoreapp3.1\Poulina.ProjectManagmentMs.Infra.dll
+C:\Users\razi\source\repos\Ms_Machine\Poulina.ProjectManagmentMs.Infra\obj\Debug\netcoreapp3.1\Poulina.ProjectManagmentMs.Infra.pdb

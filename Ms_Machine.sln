@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ms_Machine", "Ms_Machine\Ms_Machine.csproj", "{8D8262F3-2190-4853-9AF3-42A45379747B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7051FB5C-DAFE-4D79-A0D5-9F25F0C7911E} = {7051FB5C-DAFE-4D79-A0D5-9F25F0C7911E}
+		{AD93B798-B872-44B2-A021-E5670C984F46} = {AD93B798-B872-44B2-A021-E5670C984F46}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{2096C0BB-5A9F-443E-99E6-1036B9C6FB90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poulina.MSmachine.Domain", "Poulina.MSmachine.domain\Poulina.MSmachine.Domain.csproj", "{7051FB5C-DAFE-4D79-A0D5-9F25F0C7911E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{9FDAA634-E1BE-4E14-AD65-61FCBFEDDFE2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poulina.MSmachine.Data", "Poulina.MSmachine.Data\Poulina.MSmachine.Data.csproj", "{AD93B798-B872-44B2-A021-E5670C984F46}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7051FB5C-DAFE-4D79-A0D5-9F25F0C7911E} = {7051FB5C-DAFE-4D79-A0D5-9F25F0C7911E}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{DBC69AED-AC0A-4C08-8CE3-9506D5D0385A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poulina.ProjectManagmentMs.Infra", "Poulina.ProjectManagmentMs.Infra\Poulina.ProjectManagmentMs.Infra.csproj", "{B05AFDD1-2537-48BA-A6A6-712D302A261C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D8262F3-2190-4853-9AF3-42A45379747B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D8262F3-2190-4853-9AF3-42A45379747B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D8262F3-2190-4853-9AF3-42A45379747B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D8262F3-2190-4853-9AF3-42A45379747B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7051FB5C-DAFE-4D79-A0D5-9F25F0C7911E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7051FB5C-DAFE-4D79-A0D5-9F25F0C7911E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7051FB5C-DAFE-4D79-A0D5-9F25F0C7911E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7051FB5C-DAFE-4D79-A0D5-9F25F0C7911E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD93B798-B872-44B2-A021-E5670C984F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD93B798-B872-44B2-A021-E5670C984F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD93B798-B872-44B2-A021-E5670C984F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD93B798-B872-44B2-A021-E5670C984F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B05AFDD1-2537-48BA-A6A6-712D302A261C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05AFDD1-2537-48BA-A6A6-712D302A261C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05AFDD1-2537-48BA-A6A6-712D302A261C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05AFDD1-2537-48BA-A6A6-712D302A261C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7051FB5C-DAFE-4D79-A0D5-9F25F0C7911E} = {2096C0BB-5A9F-443E-99E6-1036B9C6FB90}
+		{AD93B798-B872-44B2-A021-E5670C984F46} = {9FDAA634-E1BE-4E14-AD65-61FCBFEDDFE2}
+		{B05AFDD1-2537-48BA-A6A6-712D302A261C} = {DBC69AED-AC0A-4C08-8CE3-9506D5D0385A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {906BEC91-53CB-46E9-A9B5-19863359A36E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.Data\bin\Debug\netcoreapp3.1\Poulina.MSmachine.data.deps.json
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.Data\bin\Debug\netcoreapp3.1\Poulina.MSmachine.data.dll
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.Data\obj\Debug\netcoreapp3.1\Poulina.MSmachine.data.csprojAssemblyReference.cache
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.Data\obj\Debug\netcoreapp3.1\Poulina.MSmachine.data.AssemblyInfoInputs.cache
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.Data\obj\Debug\netcoreapp3.1\Poulina.MSmachine.data.AssemblyInfo.cs
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.Data\bin\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.dll
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.Data\bin\Debug\netcoreapp3.1\Poulina.MSmachine.Data.runtimeconfig.json
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.Data\bin\Debug\netcoreapp3.1\Poulina.MSmachine.Data.runtimeconfig.dev.json
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.Data\bin\Debug\netcoreapp3.1\Poulina.MSmachine.Data.pdb
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.Data\bin\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.pdb
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.Data\obj\Debug\netcoreapp3.1\Poulina.MSmachine.Data.csproj.CopyComplete
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.Data\obj\Debug\netcoreapp3.1\Poulina.MSmachine.Data.dll
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.Data\obj\Debug\netcoreapp3.1\Poulina.MSmachine.Data.pdb

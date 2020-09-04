@@ -1,0 +1,10 @@
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.domain\bin\Debug\netcoreapp3.1\Poulina.MSmachine.domain.deps.json
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.domain\bin\Debug\netcoreapp3.1\Poulina.MSmachine.domain.dll
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.domain\obj\Debug\netcoreapp3.1\Poulina.MSmachine.domain.csprojAssemblyReference.cache
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.domain\obj\Debug\netcoreapp3.1\Poulina.MSmachine.domain.AssemblyInfoInputs.cache
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.domain\obj\Debug\netcoreapp3.1\Poulina.MSmachine.domain.AssemblyInfo.cs
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.domain\bin\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.runtimeconfig.json
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.domain\bin\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.runtimeconfig.dev.json
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.domain\bin\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.pdb
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.domain\obj\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.dll
+C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.domain\obj\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.pdb
