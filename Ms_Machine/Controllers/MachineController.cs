@@ -48,8 +48,24 @@ namespace Ms_Machine.Controllers
                 return await Handler.Handle(query, new CancellationToken());
             }
 
-            // GET: api/Actione/5
-            [HttpGet("GetMachineById")]
+        [HttpGet("GetMachineEnPanne")]
+        public async Task<IEnumerable<Machine>> GetMachineEnPanne()
+        {
+            var query = new GetListGenericQuery<Machine>((x => x.etat_machine.Equals("en panne")), null);
+            var Handler = new GetListGenericHandler<Machine>(GenericRepository);
+            return await Handler.Handle(query, new CancellationToken());
+        }
+
+        [HttpGet("GetMachineFonctionne")]
+        public async Task<IEnumerable<Machine>> GetMachineFonctionne()
+        {
+            var query = new GetListGenericQuery<Machine>((x => !(x.etat_machine.Equals("en panne"))), null);
+            var Handler = new GetListGenericHandler<Machine>(GenericRepository);
+            return await Handler.Handle(query, new CancellationToken());
+        }
+
+        // GET: api/Actione/5
+        [HttpGet("GetMachineById")]
             public async Task<Machine> GetMachineById(Guid id) =>
                 await (new GetByIdGenericHandler<Machine>(GenericRepository)).Handle(new GetByIdGenericQuery<Machine>(condition: x => x.id_machine.Equals(id), null), new CancellationToken());
 

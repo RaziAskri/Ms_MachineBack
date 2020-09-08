@@ -18,7 +18,7 @@ namespace Ms_Machine.Domain.Poulina.MSmachine.Domain.Queries
             Func<IQueryable<TEntity>, IIncludableQueryable<TEntity, object>> includes = null)
         {
             Includes = includes;
-            condition = Condition;
+            Condition = condition;
         }
 
     }
