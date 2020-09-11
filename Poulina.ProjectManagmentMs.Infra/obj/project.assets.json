@@ -9652,19 +9652,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\razi\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\razi\\source\\repos\\Ms_Machine\\Poulina.ProjectManagmentMs.Infra\\Poulina.ProjectManagmentMs.Infra.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\stage\\MsMachine\\Ms_MachineBack\\Poulina.ProjectManagmentMs.Infra\\Poulina.ProjectManagmentMs.Infra.csproj",
       "projectName": "Poulina.ProjectManagmentMs.Infra",
-      "projectPath": "C:\\Users\\razi\\source\\repos\\Ms_Machine\\Poulina.ProjectManagmentMs.Infra\\Poulina.ProjectManagmentMs.Infra.csproj",
-      "packagesPath": "C:\\Users\\razi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\razi\\source\\repos\\Ms_Machine\\Poulina.ProjectManagmentMs.Infra\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\stage\\MsMachine\\Ms_MachineBack\\Poulina.ProjectManagmentMs.Infra\\Poulina.ProjectManagmentMs.Infra.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\stage\\MsMachine\\Ms_MachineBack\\Poulina.ProjectManagmentMs.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\razi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9677,8 +9677,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\razi\\source\\repos\\Ms_Machine\\Poulina.MSmachine.Data\\Poulina.MSmachine.Data.csproj": {
-              "projectPath": "C:\\Users\\razi\\source\\repos\\Ms_Machine\\Poulina.MSmachine.Data\\Poulina.MSmachine.Data.csproj"
+            "C:\\Users\\User\\Desktop\\stage\\MsMachine\\Ms_MachineBack\\Poulina.MSmachine.Data\\Poulina.MSmachine.Data.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\stage\\MsMachine\\Ms_MachineBack\\Poulina.MSmachine.Data\\Poulina.MSmachine.Data.csproj"
             }
           }
         }
@@ -9730,7 +9730,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

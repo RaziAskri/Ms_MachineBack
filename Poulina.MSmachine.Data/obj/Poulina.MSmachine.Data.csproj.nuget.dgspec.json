@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\razi\\source\\repos\\Ms_Machine\\Poulina.MSmachine.Data\\Poulina.MSmachine.Data.csproj": {}
+    "C:\\Users\\User\\Desktop\\stage\\MsMachine\\Ms_MachineBack\\Poulina.MSmachine.Data\\Poulina.MSmachine.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\razi\\source\\repos\\Ms_Machine\\Poulina.MSmachine.Data\\Poulina.MSmachine.Data.csproj": {
+    "C:\\Users\\User\\Desktop\\stage\\MsMachine\\Ms_MachineBack\\Poulina.MSmachine.Data\\Poulina.MSmachine.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\razi\\source\\repos\\Ms_Machine\\Poulina.MSmachine.Data\\Poulina.MSmachine.Data.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\stage\\MsMachine\\Ms_MachineBack\\Poulina.MSmachine.Data\\Poulina.MSmachine.Data.csproj",
         "projectName": "Poulina.MSmachine.Data",
-        "projectPath": "C:\\Users\\razi\\source\\repos\\Ms_Machine\\Poulina.MSmachine.Data\\Poulina.MSmachine.Data.csproj",
-        "packagesPath": "C:\\Users\\razi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\razi\\source\\repos\\Ms_Machine\\Poulina.MSmachine.Data\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\stage\\MsMachine\\Ms_MachineBack\\Poulina.MSmachine.Data\\Poulina.MSmachine.Data.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\stage\\MsMachine\\Ms_MachineBack\\Poulina.MSmachine.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\razi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\razi\\source\\repos\\Ms_Machine\\Poulina.MSmachine.domain\\Poulina.MSmachine.Domain.csproj": {
-                "projectPath": "C:\\Users\\razi\\source\\repos\\Ms_Machine\\Poulina.MSmachine.domain\\Poulina.MSmachine.Domain.csproj"
+              "C:\\Users\\User\\Desktop\\stage\\MsMachine\\Ms_MachineBack\\Poulina.MSmachine.domain\\Poulina.MSmachine.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\stage\\MsMachine\\Ms_MachineBack\\Poulina.MSmachine.domain\\Poulina.MSmachine.Domain.csproj"
               }
             }
           }
@@ -102,21 +102,21 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\razi\\source\\repos\\Ms_Machine\\Poulina.MSmachine.domain\\Poulina.MSmachine.Domain.csproj": {
+    "C:\\Users\\User\\Desktop\\stage\\MsMachine\\Ms_MachineBack\\Poulina.MSmachine.domain\\Poulina.MSmachine.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\razi\\source\\repos\\Ms_Machine\\Poulina.MSmachine.domain\\Poulina.MSmachine.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\stage\\MsMachine\\Ms_MachineBack\\Poulina.MSmachine.domain\\Poulina.MSmachine.Domain.csproj",
         "projectName": "Poulina.MSmachine.Domain",
-        "projectPath": "C:\\Users\\razi\\source\\repos\\Ms_Machine\\Poulina.MSmachine.domain\\Poulina.MSmachine.Domain.csproj",
-        "packagesPath": "C:\\Users\\razi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\razi\\source\\repos\\Ms_Machine\\Poulina.MSmachine.domain\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\stage\\MsMachine\\Ms_MachineBack\\Poulina.MSmachine.domain\\Poulina.MSmachine.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\stage\\MsMachine\\Ms_MachineBack\\Poulina.MSmachine.domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\razi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -197,7 +197,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
