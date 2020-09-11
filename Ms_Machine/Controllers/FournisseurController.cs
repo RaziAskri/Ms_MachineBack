@@ -14,7 +14,12 @@ using Ms_Machine.Domain.Poulina.MSmachine.Domain.Handler;
 using Ms_Machine.Domain.Poulina.MSmachine.Domain.Command;
 using Ms_Machine.Domain.Poulina.MSmachine.Domain.Models;
 using Ms_Machine.Domain.Poulina.MSmachine.Domain.Data;
+using Ms_Machine.Domain.Poulina.MSmachine.Domain.Models.DTO;
 
+using Poulina.ProjectManagmentMS.Data.Repository;
+using Microsoft.Win32;
+using Poulina.MSmachine.Domain.DTO;
+using System.Security.Cryptography.X509Certificates;
 
 namespace Ms_Fournisseur.Controllers
 {
@@ -26,11 +31,14 @@ namespace Ms_Fournisseur.Controllers
         private readonly PoulinaDbContext _context;
 
         private readonly IGenericRepository<Fournisseur> GenericRepository;
-
-        public FournisseurController(PoulinaDbContext context, IGenericRepository<Fournisseur> repository)
+        private readonly IGenericRepository<Machine> MachineRepository;
+        public FournisseurController(PoulinaDbContext context, IGenericRepository<Fournisseur> repository, IGenericRepository<Machine> machinerepository)
         {
+            this.MachineRepository = machinerepository;
             this.GenericRepository = repository;
             _context = context;
+           // this.mediator = Mediator;
+
         }
 
         // GET: api/Projet
@@ -60,11 +68,33 @@ namespace Ms_Fournisseur.Controllers
         [HttpPost("PostFournisseur")]
         public async Task<string> PostFournisseur([FromBody] Fournisseur action) =>
             await (new PostGenericHandler<Fournisseur>(GenericRepository)).Handle(new PostGenericCommand<Fournisseur>(action), new CancellationToken());
-       
+
 
         // DELETE: api/Actione/5
         [HttpDelete("RemoveFournisseur")]
         public async Task<string> DeleteFournisseur(Guid id) =>
             await (new RemoveGenericHandler<Fournisseur>(GenericRepository)).Handle(new RemoveGenericCommand<Fournisseur>(id), new CancellationToken());
+
+        [HttpGet("GetNombreFournisseurparMachine")]
+        public IEnumerable<NbrMachineDTO> GetNombreFournisseurparMachine()
+        {
+            var query = new GetListGenericQuery<Fournisseur>(condition: null, includes: null);
+            var Handler = new GetListGenericHandler<Fournisseur>(GenericRepository);
+            var fournisseurs = Handler.Handle(query, new CancellationToken()).Result.ToList();
+            var query2 = new GetListGenericQuery<Machine>(condition: null, includes: null);
+            var Handler2 = new GetListGenericHandler<Machine>(MachineRepository);
+            var machines = Handler2.Handle(query2, new CancellationToken()).Result.ToList();
+            var list = new List<NbrMachineDTO>();
+            foreach(var fournisseur in fournisseurs)
+            {
+                var nbrmachine = new NbrMachineDTO();
+                nbrmachine.nbrMachine = machines.Count(x =>x.id_fournisseur == fournisseur.id_fournisseur);
+                nbrmachine.label = fournisseur.label;
+                nbrmachine.id_fournisseur = fournisseur.id_fournisseur;
+                list.Add(nbrmachine);
+            }
+            return list;
+        }
+
     }
 }
