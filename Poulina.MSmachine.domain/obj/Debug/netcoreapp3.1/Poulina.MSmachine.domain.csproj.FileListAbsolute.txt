@@ -8,3 +8,15 @@ C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.domain\bin\Debug\netcore
 C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.domain\bin\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.pdb
 C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.domain\obj\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.dll
 C:\Users\razi\source\repos\Ms_Machine\Poulina.MSmachine.domain\obj\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.pdb
+C:\Users\User\Desktop\stage\MsMachine\Ms_MachineBack\Poulina.MSmachine.domain\bin\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.deps.json
+C:\Users\User\Desktop\stage\MsMachine\Ms_MachineBack\Poulina.MSmachine.domain\bin\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.runtimeconfig.json
+C:\Users\User\Desktop\stage\MsMachine\Ms_MachineBack\Poulina.MSmachine.domain\bin\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.runtimeconfig.dev.json
+C:\Users\User\Desktop\stage\MsMachine\Ms_MachineBack\Poulina.MSmachine.domain\bin\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.dll
+C:\Users\User\Desktop\stage\MsMachine\Ms_MachineBack\Poulina.MSmachine.domain\bin\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.pdb
+C:\Users\User\Desktop\stage\MsMachine\Ms_MachineBack\Poulina.MSmachine.domain\obj\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.csprojAssemblyReference.cache
+C:\Users\User\Desktop\stage\MsMachine\Ms_MachineBack\Poulina.MSmachine.domain\obj\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stage\MsMachine\Ms_MachineBack\Poulina.MSmachine.domain\obj\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\stage\MsMachine\Ms_MachineBack\Poulina.MSmachine.domain\obj\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stage\MsMachine\Ms_MachineBack\Poulina.MSmachine.domain\obj\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.dll
+C:\Users\User\Desktop\stage\MsMachine\Ms_MachineBack\Poulina.MSmachine.domain\obj\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.pdb
+C:\Users\User\Desktop\stage\MsMachine\Ms_MachineBack\Poulina.MSmachine.domain\obj\Debug\netcoreapp3.1\Poulina.MSmachine.Domain.genruntimeconfig.cache
